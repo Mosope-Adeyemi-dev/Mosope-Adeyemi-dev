@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mosope-Adeyemi-dev
-- 👀 I’m interested in javaScript, react, nodeJS, python, APIs, databases etc.
+- 👀 I’m interested in javaScript, react, vueJS, nodeJS, python, APIs, databases etc.
 - 🌱 I’m currently learning nodeJS & express
 - 💞️ I’m looking to collaborate on any web development project 
 - 📫 How to reach me instagram @mosope.dev, email = mosope.adeyemi.dev@gmail.com
